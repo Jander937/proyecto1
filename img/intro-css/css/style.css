@@ -1,0 +1,59 @@
+body{
+    background-color: lightgray;
+}
+
+nav{
+    background-color:darkcyan;
+    height: 200px;
+    border: 5px inset red;
+    border-radius: 10px;
+}
+
+main{
+    
+    background-color:darkgray;
+}
+
+footer{
+    height: 150px;
+    background-color: lightsalmon;
+    /*margin-top: 10px;*/
+}
+
+#parrafito{
+    /* margin: 100px 150px 50px 150px; */
+    margin: 100px 200px;
+}
+
+.titulo, .texto2{
+    text-align: center;
+    color: white;
+    
+    font-size: 32px;
+    text-transform: capitalize;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.texto2{
+    background-color: black;
+    color: tomato;
+}
+
+.foto{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#fotoid{
+    border-radius: 30px;
+}
+
+#relleno{
+    background-color: aquamarine;
+    color: black;
+    border: 1px solid red;
+    height: 100px;
+    padding: 25px 50px;
+}
